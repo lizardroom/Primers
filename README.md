@@ -12,7 +12,7 @@ ctc ctg ctt agg gct ttg aag gc
 
 
 ## Anole ND2
-### (use for Anoles only)
+(use for Anoles only)
 
 ### L4437
 AAGCTTTCGGGCCCATACC
@@ -35,7 +35,7 @@ GTNTWYGAYATHTGYGGHATGTAYGC
 CCANCCBCDRTTRTGNARNGTRA
 
 ### Folmer
-(use for ALL VERTEBRATES, including all non-Anolis reptiles, to amplify HOST DNA)
+(use for ALL VERTEBRATES, including all non-Anolis reptiles, to amplify HOST DNA - think: pine snakes, wall lizards, etc.)
 Amplifies Cytochrome Oxidase Subunit
 
 ### HCO2198_R
