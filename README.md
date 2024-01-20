@@ -34,7 +34,7 @@ GTNTWYGAYATHTGYGGHATGTAYGC
 ### polRinner
 CCANCCBCDRTTRTGNARNGTRA
 
-### Folmer
+### Folmer CO1 (Barcode) primers
 (use for ALL VERTEBRATES, including all non-Anolis reptiles, to amplify HOST DNA - think: pine snakes, wall lizards, etc.)
 Amplifies Cytochrome Oxidase Subunit
 
